@@ -1,0 +1,117 @@
+# Kidofun Requirements Document
+
+## 1. Application Overview
+
+### 1.1 Application Name
+Kidofun
+
+### 1.2 Application Description
+Kidofun is a mobile application designed for children under five years old, providing a collection of 50+ famous nursery rhymes with audio playback and animations. The app is designed to work offline after download, allowing children to enjoy rhymes without requiring continuous network connectivity.
+
+### 1.3 Target Users
+Children under 5 years old and their parents/guardians
+
+## 2. Core Features
+\n### 2.1 Rhyme Library
+- Provide 50+ famous nursery rhymes including:
+  - Twinkle Twinkle Little Star\n  - Baa Baa Black Sheep
+  - Humpty Dumpty
+  - Mary Had a Little Lamb
+  - Old MacDonald Had a Farm
+  - The Wheels on the Bus
+  - Row Row Row Your Boat
+  - Itsy Bitsy Spider
+  - Five Little Ducks
+  - Head Shoulders Knees and Toes
+  - Hickory Dickory Dock
+  - Jack and Jill
+  - London Bridge is Falling Down\n  - Ring Around the Rosie
+  - Pop Goes the Weasel
+  - If You're Happy and You Know It
+  - The Alphabet Song
+  - Five Little Monkeys
+  - Yankee Doodle
+  - This Old Man
+  - Three Blind Mice
+  - Hot Cross Buns
+  - Little Bo Peep
+  - Hey Diddle Diddle
+  - Pat-a-Cake
+  - Rock-a-Bye Baby
+  - Hush Little Baby
+  - Are You Sleeping\n  - The Muffin Man
+  - Sing a Song of Sixpence\n  - And 20+ more popular rhymes
+- Each rhyme includes text display, audio playback, and animation
+- Support offline playback after download
+
+### 2.2 Audio Playback
+- High-quality audio for each rhyme\n- Play/pause controls
+- Volume adjustment
+- Auto-play next rhyme option
+- Repeat single rhyme option
+
+### 2.3 Animation Features
+- Engaging animations synchronized with each rhyme
+- Character animations matching rhyme content
+- Colorful visual effects to capture children's attention
+- Simple touch-triggered animations for interactive engagement
+- Smooth transitions between scenes
+
+### 2.4 Category Organization
+- Rhymes organized by categories including:
+  - Animals
+  - Numbers
+  - Bedtime\n  - Action Songs
+  - Classic Favorites
+  - Learning & Education
+
+### 2.5 Interactive Features\n- Simple touch interactions for navigation\n- Favorite rhymes marking feature
+- Recently played rhymes section
+- Shuffle play mode\n- Child-friendly interface design\n
+## 3. Technical Requirements
+
+### 3.1 Platform
+- Mobile application (downloadable format)
+- Offline functionality after initial download
+- Compatible with iOS and Android devices\n
+### 3.2 Content Requirements
+- 50+ famous nursery rhymes with complete lyrics
+- Audio files for all rhymes
+- Animation assets for each rhyme
+- Child-appropriate visual design
+- Optimized app size for easy download
+
+## 4. User Interface
+
+### 4.1 Design Principles
+- Simple and intuitive navigation suitable for young children
+- Large, easy-to-tap buttons
+- Bright, engaging colors
+- Clear visual feedback for interactions
+- Child-safe design with no external links or ads
+- Age-appropriate font sizes and readability
+
+### 4.2 Main Screens
+- Home screen with category selection
+- Rhyme list view within each category
+- Individual rhyme playback screen with lyrics, audio controls, and animations
+- Favorites section for quick access to preferred rhymes
+- Recently played section
+
+## 5. Additional Features
+
+### 5.1 Parental Controls
+- Simple settings menu for parents
+- Volume lock option
+- Timer function for usage control
+- Sleep mode with automatic shutdown
+
+### 5.2 Progress Tracking
+- Track which rhymes have been played
+- Visual indicators for new content
+- Achievement badges for exploring different categories
+
+### 5.3 User Experience\n- No in-app purchases
+- No advertisements
+- No external links to ensure child safety
+- Simple onboarding tutorial for first-time users
